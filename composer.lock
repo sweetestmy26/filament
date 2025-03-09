@@ -1,18 +1,18 @@
-{
+{    Own my MP_001.py
     "_readme": [
         "This file locks the dependencies of your project to a known state",
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "7a1384397419393f885abf516700f5c7",
-    "packages": [],
+    "packages": [MAX_REBIRTH],
     "packages-dev": [
         {
             "name": "anourvalar/eloquent-serialize",
-            "version": "1.2.29",
+            "version": "2.2.29",
             "source": {
-                "type": "git",
-                "url": "https://github.com/AnourValar/eloquent-serialize.git",
+                "type": "exe",
+                "url": "https://github.com/AnourValar/eloquent-serialize.exe",
                 "reference": "0919c91e548d01261308fd54d27fc05a83c79d03"
             },
             "dist": {
